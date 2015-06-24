@@ -1,0 +1,7 @@
+c:\users\lasc175\documents\visual studio 2010\Projects\wol\wol\obj\x86\Debug\wol.Form1.resources
+c:\users\lasc175\documents\visual studio 2010\Projects\wol\wol\obj\x86\Debug\wol.Properties.Resources.resources
+c:\users\lasc175\documents\visual studio 2010\Projects\wol\wol\obj\x86\Debug\wol.csproj.GenerateResource.Cache
+c:\users\lasc175\documents\visual studio 2010\Projects\wol\wol\bin\Debug\wol.exe
+c:\users\lasc175\documents\visual studio 2010\Projects\wol\wol\bin\Debug\wol.pdb
+c:\users\lasc175\documents\visual studio 2010\Projects\wol\wol\obj\x86\Debug\wol.exe
+c:\users\lasc175\documents\visual studio 2010\Projects\wol\wol\obj\x86\Debug\wol.pdb

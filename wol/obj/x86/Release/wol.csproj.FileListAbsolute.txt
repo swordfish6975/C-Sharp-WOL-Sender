@@ -1,0 +1,8 @@
+c:\users\lasc175\documents\visual studio 2010\Projects\wol\wol\bin\Release\wol.exe
+c:\users\lasc175\documents\visual studio 2010\Projects\wol\wol\bin\Release\wol.pdb
+c:\users\lasc175\documents\visual studio 2010\Projects\wol\wol\obj\x86\Release\wol.Form1.resources
+c:\users\lasc175\documents\visual studio 2010\Projects\wol\wol\obj\x86\Release\wol.Properties.Resources.resources
+c:\users\lasc175\documents\visual studio 2010\Projects\wol\wol\obj\x86\Release\wol.csproj.GenerateResource.Cache
+c:\users\lasc175\documents\visual studio 2010\Projects\wol\wol\obj\x86\Release\wol.exe
+c:\users\lasc175\documents\visual studio 2010\Projects\wol\wol\obj\x86\Release\wol.pdb
+C:\Users\lasc175\Documents\Visual Studio 2010\Projects\wol\wol\bin\Release\wol.exe.config
